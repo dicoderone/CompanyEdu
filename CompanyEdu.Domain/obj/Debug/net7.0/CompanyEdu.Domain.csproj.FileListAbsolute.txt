@@ -1,0 +1,11 @@
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Domain\bin\Debug\net7.0\CompanyEdu.Domain.deps.json
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Domain\bin\Debug\net7.0\CompanyEdu.Domain.dll
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Domain\bin\Debug\net7.0\CompanyEdu.Domain.pdb
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Domain\obj\Debug\net7.0\CompanyEdu.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Domain\obj\Debug\net7.0\CompanyEdu.Domain.AssemblyInfoInputs.cache
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Domain\obj\Debug\net7.0\CompanyEdu.Domain.AssemblyInfo.cs
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Domain\obj\Debug\net7.0\CompanyEdu.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Domain\obj\Debug\net7.0\CompanyEdu.Domain.dll
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Domain\obj\Debug\net7.0\refint\CompanyEdu.Domain.dll
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Domain\obj\Debug\net7.0\CompanyEdu.Domain.pdb
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Domain\obj\Debug\net7.0\ref\CompanyEdu.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\obj\Debug\net7.0\CompanyEdu.Application.csproj.AssemblyReference.cache
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\obj\Debug\net7.0\CompanyEdu.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\obj\Debug\net7.0\CompanyEdu.Application.AssemblyInfoInputs.cache
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\obj\Debug\net7.0\CompanyEdu.Application.AssemblyInfo.cs
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\obj\Debug\net7.0\CompanyEdu.Application.csproj.CoreCompileInputs.cache
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\bin\Debug\net7.0\CompanyEdu.Application.deps.json
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\bin\Debug\net7.0\CompanyEdu.Application.dll
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\bin\Debug\net7.0\CompanyEdu.Application.pdb
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\bin\Debug\net7.0\CompanyEdu.Domain.dll
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\bin\Debug\net7.0\CompanyEdu.Domain.pdb
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\obj\Debug\net7.0\CompanyE.8E33892C.Up2Date
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\obj\Debug\net7.0\CompanyEdu.Application.dll
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\obj\Debug\net7.0\refint\CompanyEdu.Application.dll
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\obj\Debug\net7.0\CompanyEdu.Application.pdb
+C:\Users\alijo\source\repos\CompanyEdu\CompanyEdu.Application\obj\Debug\net7.0\ref\CompanyEdu.Application.dll

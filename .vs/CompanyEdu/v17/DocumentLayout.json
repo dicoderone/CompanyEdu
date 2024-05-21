@@ -1,0 +1,1161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\GroupController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanyEdu.Api\\Controllers\\GroupController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\addstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\addstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\abstraction\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\abstraction\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\services\\groupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\creategroupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\creategroupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.api\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\abstraction\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\abstraction\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\abstraction\\ihashprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\abstraction\\ihashprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\abstraction\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\abstraction\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\providers\\hashprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\providers\\hashprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\mappingprofile\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.domain\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.domain\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\abstraction\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\abstraction\\iteacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\services\\teacherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\abstraction\\iprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\abstraction\\iprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\teacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\teacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\updateteachermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\updateteachermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\createteachermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\createteachermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\lessonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\lessonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\updategroupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\updategroupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\groupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\groupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\entitytypeconfiguration\\userentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\entitytypeconfiguration\\userentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.domain\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.domain\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.domain\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.domain\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.domain\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\migrations\\20240314154810_addedphotopath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\migrations\\20240314154810_addedphotopath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\attendancecheckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\attendancecheckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.api\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.api\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\entitytypeconfiguration\\studentingroupentitytypeconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\entitytypeconfiguration\\studentingroupentitytypeconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\entitytypeconfiguration\\studententitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\entitytypeconfiguration\\studententitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\entitytypeconfiguration\\lessonentitytypeconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\entitytypeconfiguration\\lessonentitytypeconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\entitytypeconfiguration\\groupentitytypeconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\entitytypeconfiguration\\groupentitytypeconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\entitytypeconfiguration\\attendanceentitytypeconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\entitytypeconfiguration\\attendanceentitytypeconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\abstractions\\itokenservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\abstractions\\itokenservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.domain\\entities\\studentingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.domain\\entities\\studentingroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\updatestudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\updatestudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\doattendancecheckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\doattendancecheckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\models\\createstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\models\\createstudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\abstraction\\istudentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\abstraction\\istudentservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.application\\abstraction\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.application\\abstraction\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\migrations\\20240309091425_hc nma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\migrations\\20240309091425_hc nma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\migrations\\20240307090103_add-admin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\migrations\\20240307090103_add-admin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\migrations\\20240307084105_add-admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\migrations\\20240307084105_add-admin1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\migrations\\20240307083156_delete-admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\migrations\\20240307083156_delete-admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\migrations\\20240307083910_delete-admin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\migrations\\20240307083910_delete-admin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\migrations\\20240307084005_delete-admin3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\migrations\\20240307084005_delete-admin3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\migrations\\20240307080813_hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\migrations\\20240307080813_hash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\migrations\\20240307074437_addedadmin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\migrations\\20240307074437_addedadmin2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\companyedu.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\companyedu.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\migrations\\20240227093301_adminadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\migrations\\20240227093301_adminadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.infrastructure\\persistence\\migrations\\20240227062323_added entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.infrastructure\\persistence\\migrations\\20240227062323_added entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alijo\\source\\repos\\CompanyEdu\\companyedu.api\\companyedu.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:companyedu.api\\companyedu.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Api\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "CompanyEdu.Api\\Controllers\\GroupController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T18:52:38.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\AddStudentModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\AddStudentModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\AddStudentModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\AddStudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:40:08.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IGroupService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Abstraction\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IGroupService.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Abstraction\\IGroupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:49:56.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Services\\GroupService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Services\\GroupService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Services\\GroupService.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Services\\GroupService.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAG0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:59:28.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateGroupModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\CreateGroupModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\CreateGroupModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\CreateGroupModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\CreateGroupModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:53:51.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Api\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CompanyEdu.Api\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:24:25.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Api\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "CompanyEdu.Api\\Controllers\\ProfileController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:32:44.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:03:51.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:14:30.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwC8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:02:13.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "CompanyEdu.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:20:16.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Services\\ProfileService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Services\\ProfileService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Services\\ProfileService.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Services\\ProfileService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:38:11.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Services\\FileService.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Services\\FileService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:42:39.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IFileService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Abstraction\\IFileService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IFileService.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Abstraction\\IFileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T12:34:22.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CompanyEdu.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:34:46.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IHashProvider.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IHashProvider.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Abstraction\\IHashProvider.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IHashProvider.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Abstraction\\IHashProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T07:19:17.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Abstraction\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IApplicationDbContext.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Abstraction\\IApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:50:23.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HashProvider.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Providers\\HashProvider.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Providers\\HashProvider.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Providers\\HashProvider.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Providers\\HashProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:55:39.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JWTService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Services\\JWTService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Services\\JWTService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Services\\JWTService.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Services\\JWTService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:38:33.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:58:56.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\MappingProfile\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\MappingProfile\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\MappingProfile\\MappingProfile.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\MappingProfile\\MappingProfile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T06:14:22.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Program.cs",
+              "RelativeToolTip": "CompanyEdu.Api\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:11:30.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "CompanyEdu.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\appsettings.json",
+              "RelativeToolTip": "CompanyEdu.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T05:56:35.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Entities\\Attendance.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Domain\\Entities\\Attendance.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Entities\\Attendance.cs",
+              "RelativeToolTip": "CompanyEdu.Domain\\Entities\\Attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:51:55.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ITeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\ITeacherService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Abstraction\\ITeacherService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\ITeacherService.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Abstraction\\ITeacherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:13:30.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Api\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "CompanyEdu.Api\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T02:07:44.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Services\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Services\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Services\\AttendanceService.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Services\\AttendanceService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T01:05:01.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TeacherService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Services\\TeacherService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Services\\TeacherService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Services\\TeacherService.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Services\\TeacherService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:48:40.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IProfileService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Abstraction\\IProfileService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IProfileService.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Abstraction\\IProfileService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:37:24.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TeacherViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\TeacherViewModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\TeacherViewModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\TeacherViewModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\TeacherViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:29:25.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateTeacherModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\UpdateTeacherModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\UpdateTeacherModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\UpdateTeacherModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\UpdateTeacherModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:24:43.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateTeacherModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\CreateTeacherModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\CreateTeacherModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\CreateTeacherModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\CreateTeacherModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:18:31.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LessonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\LessonViewModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\LessonViewModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\LessonViewModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\LessonViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:39:43.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateGroupModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\UpdateGroupModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\UpdateGroupModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\UpdateGroupModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\UpdateGroupModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:54:39.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GroupViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\GroupViewModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\GroupViewModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\GroupViewModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\GroupViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:52:34.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\UserEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\UserEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\UserEntityTypeConfiguration.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\UserEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAACiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:22:43.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Domain\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Enums\\UserRole.cs",
+              "RelativeToolTip": "CompanyEdu.Domain\\Enums\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:22:57.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Domain\\Entities\\Group.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Entities\\Group.cs",
+              "RelativeToolTip": "CompanyEdu.Domain\\Entities\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:39:08.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Domain\\Entities\\Lesson.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Entities\\Lesson.cs",
+              "RelativeToolTip": "CompanyEdu.Domain\\Entities\\Lesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:43:50.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240314154810_AddedPhotoPath.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240314154810_AddedPhotoPath.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240314154810_AddedPhotoPath.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240314154810_AddedPhotoPath.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240314154810_AddedPhotoPath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:48:10.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AttendanceCheckModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\AttendanceCheckModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\AttendanceCheckModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\AttendanceCheckModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\AttendanceCheckModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:59:59.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Api\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "CompanyEdu.Api\\Controllers\\AttendanceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T08:17:54.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Services\\StudentService.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:31:39.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StudentInGroupEntityTypeConfiguration .cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\StudentInGroupEntityTypeConfiguration .cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\StudentInGroupEntityTypeConfiguration .cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\StudentInGroupEntityTypeConfiguration .cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\StudentInGroupEntityTypeConfiguration .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:35:13.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StudentEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\StudentEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\StudentEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\StudentEntityTypeConfiguration.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\StudentEntityTypeConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:27:16.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LessonEntityTypeConfiguration .cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\LessonEntityTypeConfiguration .cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\LessonEntityTypeConfiguration .cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\LessonEntityTypeConfiguration .cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\LessonEntityTypeConfiguration .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:41:21.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GroupEntityTypeConfiguration .cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\GroupEntityTypeConfiguration .cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\GroupEntityTypeConfiguration .cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\GroupEntityTypeConfiguration .cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\GroupEntityTypeConfiguration .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T15:29:01.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AttendanceEntityTypeConfiguration .cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\AttendanceEntityTypeConfiguration .cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\AttendanceEntityTypeConfiguration .cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\AttendanceEntityTypeConfiguration .cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\EntityTypeConfiguration\\AttendanceEntityTypeConfiguration .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:49:32.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ITokenService .cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Abstractions\\ITokenService .cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Abstractions\\ITokenService .cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Abstractions\\ITokenService .cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Abstractions\\ITokenService .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:32:16.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Abstractions\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:28:43.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StudentInGroup.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Entities\\StudentInGroup.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Domain\\Entities\\StudentInGroup.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Entities\\StudentInGroup.cs",
+              "RelativeToolTip": "CompanyEdu.Domain\\Entities\\StudentInGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:48:40.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "CompanyEdu.Domain\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABBwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:34:02.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdateStudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\UpdateStudentModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\UpdateStudentModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\UpdateStudentModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\UpdateStudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:37:07.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\StudentViewModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\StudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:41:14.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DoAttendanceCheckModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\DoAttendanceCheckModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\DoAttendanceCheckModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\DoAttendanceCheckModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\DoAttendanceCheckModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T00:58:41.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CreateStudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\CreateStudentModel.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Models\\CreateStudentModel.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Models\\CreateStudentModel.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Models\\CreateStudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:35:51.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IStudentService .cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IStudentService .cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Abstraction\\IStudentService .cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IStudentService .cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Abstraction\\IStudentService .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:15:35.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IAttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IAttendanceService.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Application\\Abstraction\\IAttendanceService.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Application\\Abstraction\\IAttendanceService.cs",
+              "RelativeToolTip": "CompanyEdu.Application\\Abstraction\\IAttendanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T01:02:45.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Api\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "CompanyEdu.Api\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:37:06.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240309091425_hc nma.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240309091425_hc nma.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240309091425_hc nma.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240309091425_hc nma.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240309091425_hc nma.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:14:26.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240307090103_Add-Admin2.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307090103_Add-Admin2.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307090103_Add-Admin2.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307090103_Add-Admin2.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307090103_Add-Admin2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:01:03.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240307084105_Add-Admin1.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307084105_Add-Admin1.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307084105_Add-Admin1.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307084105_Add-Admin1.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307084105_Add-Admin1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:41:05.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240307083156_Delete-Admin.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307083156_Delete-Admin.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307083156_Delete-Admin.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307083156_Delete-Admin.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307083156_Delete-Admin.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAABRwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:31:56.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240307083910_Delete-Admin2.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307083910_Delete-Admin2.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307083910_Delete-Admin2.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307083910_Delete-Admin2.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307083910_Delete-Admin2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:39:10.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20240307084005_Delete-Admin3.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307084005_Delete-Admin3.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307084005_Delete-Admin3.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307084005_Delete-Admin3.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307084005_Delete-Admin3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:40:05.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240307080813_hash.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307080813_hash.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307080813_hash.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307080813_hash.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307080813_hash.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:08:14.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240307074437_AddedAdmin2.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307074437_AddedAdmin2.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307074437_AddedAdmin2.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307074437_AddedAdmin2.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240307074437_AddedAdmin2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T07:44:37.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CompanyEdu.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\CompanyEdu.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\CompanyEdu.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\CompanyEdu.Infrastructure.csproj",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\CompanyEdu.Infrastructure.csproj",
+              "ViewState": "AQIAAAcAAAAAAAAAAABBwBoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T15:07:42.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240227093301_AdminAdded.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240227093301_AdminAdded.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240227093301_AdminAdded.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240227093301_AdminAdded.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240227093301_AdminAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:33:02.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240227062323_Added Entities.cs",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240227062323_Added Entities.cs",
+              "RelativeDocumentMoniker": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240227062323_Added Entities.cs",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240227062323_Added Entities.cs",
+              "RelativeToolTip": "CompanyEdu.Infrastructure\\Persistence\\Migrations\\20240227062323_Added Entities.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAABhwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:23:24.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CompanyEdu.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\CompanyEdu.Api.csproj",
+              "RelativeDocumentMoniker": "CompanyEdu.Api\\CompanyEdu.Api.csproj",
+              "ToolTip": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\CompanyEdu.Api.csproj",
+              "RelativeToolTip": "CompanyEdu.Api\\CompanyEdu.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-27T05:59:29.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

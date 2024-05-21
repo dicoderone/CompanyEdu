@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "SzCNwcQ0rhI/1FGsLLo1/bQ6/KWrg7afn5Dt/dz+OLw=",
+  "Source": "CompanyEdu.Api",
+  "BasePath": "_content/CompanyEdu.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CompanyEdu.Api\\wwwroot",
+      "Source": "CompanyEdu.Api",
+      "ContentRoot": "C:\\Users\\alijo\\source\\repos\\CompanyEdu\\CompanyEdu.Api\\wwwroot\\",
+      "BasePath": "_content/CompanyEdu.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
